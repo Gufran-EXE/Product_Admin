@@ -43,10 +43,10 @@ export default function Navbar() {
             <div className="flex items-center gap-4">
               <div className="hidden sm:flex items-center gap-2.5">
                 <div className="w-7 h-7 rounded-full bg-amber-500/20 flex items-center justify-center text-amber-400 text-xs font-bold uppercase">
-                  {user.firstName?.[0] ?? user.username[0]}
+                  G
                 </div>
                 <span className="text-sm text-cream-200">
-                  {user.firstName} {user.lastName}
+                  Gufran Nexgensis
                 </span>
               </div>
               <button
